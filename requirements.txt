@@ -1,0 +1,5 @@
+Django==6.0.5
+djangorestframework==3.17.1
+requests==2.34.0
+python-dotenv==1.2.2
+Markdown==3.10.2
